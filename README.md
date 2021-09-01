@@ -52,3 +52,5 @@ Pay attention to the order : Phone Numbers - Text - Path of Pic - View Once - Da
 
 If you want , you can leave blank columns at the row .
 
+Don't move the mouse while program working.
+
