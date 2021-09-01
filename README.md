@@ -54,3 +54,4 @@ If you want , you can leave blank columns at the row .
 
 Don't move the mouse while program working.
 
+Phone number format is like this : 90507XXXXXXX
